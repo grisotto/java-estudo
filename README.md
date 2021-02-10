@@ -1,3 +1,5 @@
 # java-estudo
 
-Estudo do java. Vou colocando aqui os exemplos que vou fazendo
+Repo para estudo do java
+
+Formato: Artigo ou livro que estudei o assunto
